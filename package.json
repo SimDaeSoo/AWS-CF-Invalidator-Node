@@ -1,0 +1,11 @@
+{
+  "name": "AWS-CF-Invalidator-Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SimDaeSoo/AWS-CF-Invalidator-Node.git",
+  "author": "daesoo94 <tlaeotn123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1043.0"
+  }
+}
